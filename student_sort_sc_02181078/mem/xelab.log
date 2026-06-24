@@ -1,0 +1,27 @@
+Vivado Simulator v2025.2
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/AMDDesignTools/2025.2/Vivado/bin/unwrapped/win64.o/xelab.exe tb_sc_fpga_sort -s tb_sc_fpga_sort_sim 
+Multi-threading is on. Using 22 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module work.clk_div
+Compiling module work.ctrl
+Compiling module work.PC
+Compiling module work.NPC
+Compiling module work.EXT
+Compiling module work.RF
+Compiling module work.alu
+Compiling module work.SCCPU
+Compiling module work.imem
+Compiling module work.dm
+Compiling module work.MIO_BUS
+Compiling module work.Multi_CH32
+Compiling module work.seg7x16
+Compiling module work.RVSCCPUSOC_Top
+Compiling module work.tb_sc_fpga_sort
+Built simulation snapshot tb_sc_fpga_sort_sim
