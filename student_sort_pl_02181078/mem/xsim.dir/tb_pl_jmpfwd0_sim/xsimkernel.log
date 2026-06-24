@@ -1,7 +1,0 @@
-Running: xsim.dir/tb_pl_jmpfwd0_sim/xsimk.exe -simmode gui -wdb tb_pl_jmpfwd0_sim.wdb -simrunnum 0 -socket 56001
-Design successfully loaded
-Design Loading Memory Usage: 9840 KB (Peak: 9840 KB)
-Design Loading CPU Usage: 62 ms
-Simulation completed
-Simulation Memory Usage: 10400 KB (Peak: 10400 KB)
-Simulation CPU Usage: 62 ms
